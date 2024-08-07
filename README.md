@@ -20,7 +20,7 @@ Welcome to the Django Certificate Generator, an open-source project built using 
 
 To run the Django Certificate Generator locally, follow these steps:
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/prabhatthakur672/Certificate-Generator.git`
 2. Navigate to the project directory: `cd Certificate-Gen`
 3. (Optional) Create and activate a virtual environment: `python3 -m venv myenv` and `source myenv/bin/activate`
 4. Install the required dependencies: `pip install -r requirements.txt`
