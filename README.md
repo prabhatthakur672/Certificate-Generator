@@ -20,7 +20,7 @@ Welcome to the Django Certificate Generator, an open-source project built using 
 
 To run the Django Certificate Generator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Ansarimajid/Certificate-Gen.git`
+1. Clone the repository: ``
 2. Navigate to the project directory: `cd Certificate-Gen`
 3. (Optional) Create and activate a virtual environment: `python3 -m venv myenv` and `source myenv/bin/activate`
 4. Install the required dependencies: `pip install -r requirements.txt`
@@ -39,16 +39,3 @@ For bulk certificate generation, users can upload a CSV file containing particip
 
 Users can also utilize the email integration feature to send the generated certificates directly to participants via email. Customization options for the email template and attachments are available.
 
-## Contributing
-
-Contributions to the Django Certificate Generator are welcome! If you find any issues or have suggestions for improvement, please create a new issue in the project's GitHub repository. You can also submit pull requests with bug fixes, new features, or enhancements.
-
-Before contributing, make sure to review the project's code of conduct and guidelines for contributors, if any.
-
-## License
-
-The Django Certificate Generator is released under the [MIT License](https://opensource.org/licenses/MIT). You can find more details in the `LICENSE` file included with the project.
-
-## Acknowledgements
-
-The Django Certificate Generator is built using the powerful Django web framework and various open-source libraries. We would like to acknowledge the contributions of the Django community and the developers behind the libraries used in this project. Their hard work and dedication make projects like this possible.
